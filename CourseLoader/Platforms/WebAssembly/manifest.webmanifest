@@ -1,0 +1,10 @@
+{
+  "background_color": "#ffffff",
+  "description": "CourseLoader",
+  "display": "standalone",
+  "name": "CourseLoader",
+  "short_name": "CourseLoader",
+  "start_url": "/index.html",
+  "theme_color": "#ffffff",
+  "scope": "/"
+}
